@@ -42,3 +42,9 @@ PSExec can only be installed on a Windows machine.
 
 - Source (Linux) prerequisites:
   - N/A
+
+Resources
+- https://adamtheautomator.com/psexec/
+- https://www.contextis.com/en/blog/lateral-movement-a-deep-look-into-psexec
+- https://www.mindpointgroup.com/blog/lateral-movement-with-psexec
+- 
