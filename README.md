@@ -22,7 +22,8 @@ Components
 - [ ] Mounting a remote windows share (`admin$`) on linux
   -  https://linuxize.com/post/how-to-mount-cifs-windows-share-on-linux/
 - [ ] Controlling services remotely
-
+  - Can PSExecSvc.exe be extracted and installed as a service remotely?
+  - Or will we have to author our own service? 
 
 ## Powershell Remoting / PSSession
 
