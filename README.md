@@ -32,11 +32,11 @@ Components
 | ❌ Linux -> Windows       | PSExec cannot be installed on Linux. |
 | ✅ Windows -> Windows     | N/A                                  |
 
-| Machine          | Prerequisites                                                                                                |
-| ---------------- | ------------------------------------------------------------------------------------------------------------ |
-| Target (Windows) | - The `File and Printer Sharing for Microsoft Networks` feature must be enabled in order for PSExec to work. |
-| Source (Windows) | - PSExec must be installed.                                                                                  |
-| Source (Linux)   | - Not supported.                                                                                             |
+| Machine          | Prerequisites                                                                                                                                                 |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Target (Windows) | - The `File and Printer Sharing for Microsoft Networks` feature must be enabled in order for PSExec to remotely establish a connection to the target machine. |
+| Source (Windows) | - PSExec must be installed.                                                                                                                                   |
+| Source (Linux)   | - Not supported.                                                                                                                                              |
 
 ## Powershell remoting over WSMan/WinRM
 
