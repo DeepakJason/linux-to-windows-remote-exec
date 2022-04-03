@@ -6,9 +6,6 @@
   - Use .NET core?
 
 
-- [x] PSExec
-- [x] Powershell remoting over WSMan/WinRM
-- [ ] PowerShell remoting over OpenSSH
 - [ ] WinExe
 - [ ] WinRM
 - [ ] https://github.com/diyan/pywinrm

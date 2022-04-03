@@ -1,16 +1,12 @@
 # Linux to Windows
 
-
 ## ❌ PSExec
 
 PSExec cannot be installed on Linux
 
 ## Powershell remoting over WSMan/WinRM
 
-| Supported Configurations | Notes                                    |
-| ------------------------ | ---------------------------------------- |
 | ❌ Linux -> Windows       | WSMan / WinRM is not supported on Linux. |
-| ✅ Windows -> Windows     | N/A                                      |
 
 | Machine          | Prerequisites                                                                                                                                                                                                                               |
 | ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
