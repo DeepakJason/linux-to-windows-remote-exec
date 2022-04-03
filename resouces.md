@@ -1,0 +1,20 @@
+# Resources
+
+- PSExec internals
+  - https://adamtheautomator.com/psexec/
+  - https://www.contextis.com/en/blog/lateral-movement-a-deep-look-into-psexec
+  - https://www.mindpointgroup.com/blog/lateral-movement-with-psexec
+- Mounting a remote windows share (`admin$`) on linux
+  - https://linuxize.com/post/how-to-mount-cifs-windows-share-on-linux/
+- PowerShell Remoting setup
+  - https://blog.quickbreach.io/blog/powershell-remoting-from-linux-to-windows/
+  - https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_remote?view=powershell-7.2
+  - https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_remote_troubleshooting?view=powershell-7.2
+  - https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_remote_requirements?view=powershell-7.2
+  - https://docs.microsoft.com/en-us/powershell/scripting/learn/ps101/08-powershell-remoting?view=powershell-7.2
+  - https://docs.microsoft.com/en-us/powershell/scripting/learn/remoting/powershell-remoting-faq?view=powershell-7.2
+  - https://docs.microsoft.com/en-us/powershell/scripting/learn/remoting/running-remote-commands?view=powershell-7.2
+  - https://automateinfra.com/2021/04/12/how-to-connect-windows-to-linux-and-linux-to-windows-using-ssh-powershell-remoting/
+  - https://www.netspi.com/blog/technical/network-penetration-testing/powershell-remoting-cheatsheet/
+  - https://blog.quickbreach.io/blog/powershell-remoting-from-linux-to-windows/
+  - https://4sysops.com/archives/powershell-remoting-between-windows-and-linux/
