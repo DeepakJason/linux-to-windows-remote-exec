@@ -18,8 +18,6 @@
 - [ ] OpenSSH
 
 
-
-
 ## Misc Considerations
 
 - [ ] PowerShell DSC

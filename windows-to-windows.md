@@ -27,4 +27,6 @@ Notes:
 
 ## Powershell remoting over OpenSSH
 
-@TODO
+Target machine prerequisites:
+
+Source machine prerequisites:
