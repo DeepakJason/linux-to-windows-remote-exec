@@ -3,18 +3,12 @@
 - [x] PSExec
 - [x] Powershell remoting over WSMan/WinRM
 - [ ] PowerShell remoting over OpenSSH
-- [ ] Powershell Core
-- [ ] PowerShell DSC
-- [ ] Chef / puppet
-- [ ] Azure VM script extensions
-- [ ] CloudInit
 - [ ] WinExe
-- [ ] WSMan
 - [ ] WinRM
+- [ ] https://github.com/diyan/pywinrm
 - [ ] WMI
 - [ ] [ImPacket script](https://github.com/SecureAuthCorp/impacket)
 - [ ] OpenSSH
-- [ ] Run windows emulator on linux?
 
 Components
 
@@ -56,7 +50,6 @@ Components
 
 ## Powershell remoting over OpenSSH
 
-
 ## Resources
 
 - PSExec internals
@@ -77,3 +70,11 @@ Components
   - https://www.netspi.com/blog/technical/network-penetration-testing/powershell-remoting-cheatsheet/
   - https://blog.quickbreach.io/blog/powershell-remoting-from-linux-to-windows/
   - https://4sysops.com/archives/powershell-remoting-between-windows-and-linux/
+
+## Misc Considerations
+
+- [ ] PowerShell DSC
+- [ ] Chef / puppet
+- [ ] Azure VM script extensions
+- [ ] CloudInit
+- [ ] Run windows emulator on linux?
