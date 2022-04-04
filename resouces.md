@@ -4,8 +4,6 @@
   - https://adamtheautomator.com/psexec/
   - https://www.contextis.com/en/blog/lateral-movement-a-deep-look-into-psexec
   - https://www.mindpointgroup.com/blog/lateral-movement-with-psexec
-- Mounting a remote windows share (`admin$`) on linux
-  - https://linuxize.com/post/how-to-mount-cifs-windows-share-on-linux/
 - PowerShell Remoting setup
   - https://blog.quickbreach.io/blog/powershell-remoting-from-linux-to-windows/
   - https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_remote?view=powershell-7.2

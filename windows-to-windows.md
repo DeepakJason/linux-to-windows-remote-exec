@@ -42,4 +42,4 @@ Target machine prerequisites:
 
 Source machine prerequisites:
 
-- Once the target machine has been configured, you can connect to it via a PSSession as follows: `Enter-PSSession -HostName remoteip -UserName remoteadminname`.
+- Once the target machine has been configured, you can connect to it via a PSSession as follows: `Enter-PSSession -HostName IP-OF-REMOTE-TARGET-MACHINE -UserName ADMIN-USERNAME-OF-REMOTE-TARGET-MACHINE`.
