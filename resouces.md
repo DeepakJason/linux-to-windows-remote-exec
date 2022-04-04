@@ -16,6 +16,9 @@
   - https://www.netspi.com/blog/technical/network-penetration-testing/powershell-remoting-cheatsheet/
   - https://blog.quickbreach.io/blog/powershell-remoting-from-linux-to-windows/
   - https://4sysops.com/archives/powershell-remoting-between-windows-and-linux/
+  - https://github.com/PowerShell/psl-omi-provider
+  - https://adamtheautomator.com/python-winrm/
 - Working with WMI
   - https://docs.microsoft.com/en-us/powershell/scripting/learn/ps101/07-working-with-wmi?view=powershell-7.2
   - https://sw0rdfish.net/powershell/wmi-on-linux-and-powershell-core/
+  - https://stackoverflow.com/a/64447151
