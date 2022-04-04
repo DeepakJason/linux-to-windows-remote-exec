@@ -49,4 +49,4 @@ Target machine prerequisites:
 
 Notes:
 
-- This configuration requires PowerShell 7, while the built-in version on most windows machines is PowerShell 5.
+- This configuration requires PowerShell 7 on the target machine, while the built-in version on most windows machines is PowerShell 5.
