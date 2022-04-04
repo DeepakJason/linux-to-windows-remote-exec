@@ -16,7 +16,6 @@
 - [ ] https://github.com/marcanpilami/winrs
 - [ ] WMI
 - [ ] [ImPacket script](https://github.com/SecureAuthCorp/impacket)
-- [ ] OpenSSH
 
 
 ## Misc Considerations

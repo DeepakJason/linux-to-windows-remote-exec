@@ -14,11 +14,11 @@ Target machine prerequisites:
 
 Source machine prerequisites:
 
-- Install the OpenSSH server by following the [steps outlined in this document](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse#install-openssh-using-powershell).
+- None required. Just connect to the target machine using SSH as follows: `ssh username@targetip`. You'll get prompted for password.
 
 Target machine prerequisites:
 
-- None required. Just connect to the target machine using SSH as follows: `ssh username@targetip`. You'll get prompted for password.
+- Install the OpenSSH server by following the [steps outlined in this document](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse#install-openssh-using-powershell).
 
 ## ✅ Powershell remoting over WSMan/WinRM
 

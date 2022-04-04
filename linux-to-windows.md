@@ -6,13 +6,7 @@ PSExec cannot be installed on Linux
 
 ## ✅ OpenSSH
 
-Source machine prerequisites:
-
-- Install the OpenSSH server by following the [steps outlined in this document](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse#install-openssh-using-powershell).
-
-Target machine prerequisites:
-
-- None required. Just connect to the target machine using SSH as follows: `ssh username@targetip`. You'll get prompted for password.
+Same steps [as outlined in this document](./windows-to-windows.md#✅-openssh)
 
 ## ❔ Powershell remoting over WSMan/WinRM
 
@@ -29,7 +23,7 @@ Target machine prerequisites:
 
 ## ✅ Powershell remoting over OpenSSH
 
-Same steps [as outlined here](./windows-to-windows.md#✅-powershell-remoting-over-openssh)
+Same steps [as outlined in this document](./windows-to-windows.md#✅-powershell-remoting-over-openssh)
 
 ## ❔ Mimicing PSExec
 
