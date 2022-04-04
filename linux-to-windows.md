@@ -12,14 +12,14 @@ Same steps [as outlined in this document](./windows-to-windows.md#✅-openssh)
 
 WSMan / WinRM is not natively supported on Linux.
 
-Source machine prerequisites:
-
-- @TODO
-
 Target machine prerequisites:
 
 - Enable PowerShell remoting by running the `Enable-PSRemoting` cmdlet.
 - Configure the WinRM service by running the `winrm quickconfig` command or `Set-WSManQuickConfig` cmdlet.
+
+Source machine prerequisites:
+
+- @TODO
 
 ## ✅ Powershell remoting over OpenSSH
 
