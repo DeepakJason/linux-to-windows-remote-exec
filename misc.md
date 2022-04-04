@@ -1,9 +1,13 @@
-- [ ] Controlling services remotely
+- Controlling Windows services remotely from a linux machine
+  - ❌ PowerShell: Unfortunately, on linux, PowerShell 7 does not include cmdlets for:
+    - Managing services (like `Start-Service`, `Set-Service` etc).
+    - WMI services (like `Get-WmiObject`, `Get-CimInstance` etc).
   - Can PSExecSvc.exe be extracted and installed as a service remotely?
-  - Or will we have to author our own service?
-  - Use powershell?
   - Use WMI?
   - Use .NET core?
+
+    - Also, the `-ComputerName` options is no longer available in this cmdlets (starting PS 7 onwards).
+
 
 
 - [ ] WinExe

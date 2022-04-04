@@ -10,6 +10,15 @@ Target machine prerequisites:
 
 - The `File and Printer Sharing for Microsoft Networks` feature must be enabled in order for PSExec to remotely establish a connection to the target machine.
 
+## ✅ OpenSSH
+
+Source machine prerequisites:
+
+- Install the OpenSSH server by following the [steps outlined in this document](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse#install-openssh-using-powershell).
+
+Target machine prerequisites:
+
+- None required. Just connect to the target machine using SSH as follows: `ssh username@targetip`. You'll get prompted for password.
 
 ## ✅ Powershell remoting over WSMan/WinRM
 
@@ -26,9 +35,8 @@ Notes:
 
 - The `Enter-PSSession` or `Invoke-Command` cmdlets can be used to execute commands on a remote machine.
 
-## Powershell remoting over OpenSSH
+## ❔ Powershell remoting over OpenSSH
 
 Source machine prerequisites:
 
 Target machine prerequisites:
-
