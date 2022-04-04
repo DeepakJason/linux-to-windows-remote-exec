@@ -33,10 +33,20 @@ Target machine prerequisites:
 
 Notes:
 
-- The `Enter-PSSession` or `Invoke-Command` cmdlets can be used to execute commands on a remote machine.
+- Once PS remoting is enabled, the `Enter-PSSession` or `Invoke-Command` cmdlets can be used to execute commands on a remote machine.
 
-## ❔ Powershell remoting over OpenSSH
+## ✅ Powershell remoting over OpenSSH
 
 Source machine prerequisites:
 
+- Once the target machine has been configured, you can connect to it via a PSSession as follows: `Enter-PSSession -HostName remoteip -UserName remoteadminname`.
+
 Target machine prerequisites:
+
+- Install PowerShell 7 ([steps](https://docs.microsoft.com/en-us/powershell/scripting/install/installing-powershell-on-windows?view=powershell-7.2)).
+- Install the OpenSSH server by following the [steps outlined in this document](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse#install-openssh-using-powershell).
+- Configure the `sshd_config` file and start the OpenSSH server using [steps 3-5 outlined here](https://docs.microsoft.com/en-us/powershell/scripting/learn/remoting/ssh-remoting-in-powershell-core?view=powershell-7.2#install-the-ssh-service-on-a-windows-computer).
+
+Notes:
+
+- This configuration requires PowerShell 7, while the built-in version on most windows machines is PowerShell 5.

@@ -27,11 +27,9 @@ Target machine prerequisites:
 - Enable PowerShell remoting by running the `Enable-PSRemoting` cmdlet.
 - Configure the WinRM service by running the `winrm quickconfig` command or `Set-WSManQuickConfig` cmdlet.
 
-## ❔ Powershell remoting over OpenSSH
+## ✅ Powershell remoting over OpenSSH
 
-Source machine prerequisites:
-
-Target machine prerequisites:
+Same steps [as outlined here](./windows-to-windows.md#✅-powershell-remoting-over-openssh)
 
 ## ❔ Mimicing PSExec
 
