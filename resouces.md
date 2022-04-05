@@ -1,0 +1,24 @@
+# Resources
+
+- PSExec internals
+  - https://adamtheautomator.com/psexec/
+  - https://www.contextis.com/en/blog/lateral-movement-a-deep-look-into-psexec
+  - https://www.mindpointgroup.com/blog/lateral-movement-with-psexec
+- PowerShell Remoting setup
+  - https://blog.quickbreach.io/blog/powershell-remoting-from-linux-to-windows/
+  - https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_remote?view=powershell-7.2
+  - https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_remote_troubleshooting?view=powershell-7.2
+  - https://docs.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_remote_requirements?view=powershell-7.2
+  - https://docs.microsoft.com/en-us/powershell/scripting/learn/ps101/08-powershell-remoting?view=powershell-7.2
+  - https://docs.microsoft.com/en-us/powershell/scripting/learn/remoting/powershell-remoting-faq?view=powershell-7.2
+  - https://docs.microsoft.com/en-us/powershell/scripting/learn/remoting/running-remote-commands?view=powershell-7.2
+  - https://automateinfra.com/2021/04/12/how-to-connect-windows-to-linux-and-linux-to-windows-using-ssh-powershell-remoting/
+  - https://www.netspi.com/blog/technical/network-penetration-testing/powershell-remoting-cheatsheet/
+  - https://blog.quickbreach.io/blog/powershell-remoting-from-linux-to-windows/
+  - https://4sysops.com/archives/powershell-remoting-between-windows-and-linux/
+  - https://github.com/PowerShell/psl-omi-provider
+  - https://adamtheautomator.com/python-winrm/
+- Working with WMI
+  - https://docs.microsoft.com/en-us/powershell/scripting/learn/ps101/07-working-with-wmi?view=powershell-7.2
+  - https://sw0rdfish.net/powershell/wmi-on-linux-and-powershell-core/
+  - https://stackoverflow.com/a/64447151
