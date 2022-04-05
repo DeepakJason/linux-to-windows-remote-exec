@@ -26,7 +26,7 @@ Source machine prerequisites:
 ## Other Misc Considerations
 
 - [ ] WinExe
-- [ ] [WinRm](https://github.com/marcanpilami/winrs)
+- [ ] [WinRS](https://github.com/marcanpilami/winrs)
 - [ ] [ImPacket](https://github.com/SecureAuthCorp/impacket)
 - [ ] PowerShell DSC
 - [ ] Chef / puppet
