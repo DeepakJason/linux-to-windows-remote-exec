@@ -3,9 +3,13 @@
         "anbo",
         "cifs",
         "cmdlets",
+        "diskdrive",
         "dism",
+        "driveletter",
         "findstr",
+        "fsinfo",
         "fsutil",
+        "logicaldisk",
         "mkdir",
         "packagename",
         "qdescription",
@@ -14,6 +18,7 @@
         "Remoting",
         "servicename",
         "systeminfo",
-        "trustedhosts"
+        "trustedhosts",
+        "volumeinfo"
     ]
 }

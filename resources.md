@@ -22,3 +22,5 @@
   - https://docs.microsoft.com/en-us/powershell/scripting/learn/ps101/07-working-with-wmi?view=powershell-7.2
   - https://sw0rdfish.net/powershell/wmi-on-linux-and-powershell-core/
   - https://stackoverflow.com/a/64447151
+- Extracting drive/volume info on Windows
+  - https://www.thewindowsclub.com/list-drives-using-command-prompt-powershell-windows
