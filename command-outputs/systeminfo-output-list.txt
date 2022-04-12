@@ -1,0 +1,76 @@
+
+Host Name:                 HIGHWAYSTAR
+OS Name:                   Microsoft Windows 10 Home
+OS Version:                10.0.19044 N/A Build 19044
+OS Manufacturer:           Microsoft Corporation
+OS Configuration:          Standalone Workstation
+OS Build Type:             Multiprocessor Free
+Registered Owner:          localadmin
+Registered Organization:   
+Product ID:                00326-10007-27124-AA485
+Original Install Date:     6/29/2020, 5:38:47 PM
+System Boot Time:          4/9/2022, 9:03:05 PM
+System Manufacturer:                                        
+System Model:                                               
+System Type:               x64-based PC
+Processor(s):              1 Processor(s) Installed.
+                           [01]: Intel64 Family 6 Model 78 Stepping 3 GenuineIntel ~1800 Mhz
+BIOS Version:              Intel Corp. SYSKLi35.86A.0044.2016.0512.1734, 5/12/2016
+Windows Directory:         C:\WINDOWS
+System Directory:          C:\WINDOWS\system32
+Boot Device:               \Device\HarddiskVolume2
+System Locale:             en-us;English (United States)
+Input Locale:              en-us;English (United States)
+Time Zone:                 (UTC+05:30) Chennai, Kolkata, Mumbai, New Delhi
+Total Physical Memory:     32,658 MB
+Available Physical Memory: 23,515 MB
+Virtual Memory: Max Size:  37,522 MB
+Virtual Memory: Available: 27,604 MB
+Virtual Memory: In Use:    9,918 MB
+Page File Location(s):     C:\pagefile.sys
+Domain:                    WORKGROUP
+Logon Server:              \\HIGHWAYSTAR
+Hotfix(s):                 22 Hotfix(s) Installed.
+                           [01]: KB5010472
+                           [02]: KB4537759
+                           [03]: KB4557968
+                           [04]: KB4560366
+                           [05]: KB4561600
+                           [06]: KB4566785
+                           [07]: KB4570334
+                           [08]: KB4577266
+                           [09]: KB4577586
+                           [10]: KB4580325
+                           [11]: KB4586864
+                           [12]: KB4589212
+                           [13]: KB4593175
+                           [14]: KB4598481
+                           [15]: KB5000736
+                           [16]: KB5003791
+                           [17]: KB5011543
+                           [18]: KB5006753
+                           [19]: KB5007273
+                           [20]: KB5011352
+                           [21]: KB5011651
+                           [22]: KB5005699
+Network Card(s):           4 NIC(s) Installed.
+                           [01]: Intel(R) Dual Band Wireless-AC 8260
+                                 Connection Name: Wi-Fi
+                                 DHCP Enabled:    Yes
+                                 DHCP Server:     10.10.0.1
+                                 IP address(es)
+                                 [01]: 10.10.2.139
+                                 [02]: fe80::309b:198b:ecc6:fd77
+                           [02]: Intel(R) Ethernet Connection I219-V
+                                 Connection Name: Ethernet
+                                 Status:          Media disconnected
+                           [03]: Bluetooth Device (Personal Area Network)
+                                 Connection Name: Bluetooth Network Connection
+                                 Status:          Media disconnected
+                           [04]: Hyper-V Virtual Ethernet Adapter
+                                 Connection Name: vEthernet (WSL)
+                                 DHCP Enabled:    No
+                                 IP address(es)
+                                 [01]: 172.26.128.1
+                                 [02]: fe80::9963:6e91:c4e6:200e
+Hyper-V Requirements:      A hypervisor has been detected. Features required for Hyper-V will not be displayed.

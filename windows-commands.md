@@ -7,14 +7,30 @@ Most of the system information can be extracted by running the `systeminfo` comm
 Notes:
 
 - You can pipe the output to the `findstr` (similar to linux's `grep`) command to filter/extract the desired portion of the output.
-- By default, the output of the command is in list format ([see example](./command-outputs/systeminfo-output-table.txt)). You can also use:
-  - `systeminfo /FO CSV` to get the output in CSV format ([see example](./command-outputs/systeminfo-output-table.csv)).
+- By default, the output of the command is in list format ([see example](./command-outputs/systeminfo-output-list.txt)). You can also use:
+  - `systeminfo /FO CSV` to get the output in CSV format ([see example](./command-outputs/systeminfo-output-csv.csv)).
   - `systeminfo /FO TABLE` to get the output in tabular format ([see example](./command-outputs/systeminfo-output-table.txt)).
 - To see the list of all available options, type `systeminfo /?`
 
 ![systeminfo command](./command-outputs/systeminfo-output.png)
 
 ## Installed Programs, OS Patches
+
+A list of installed programs and OS patches can be extracted with either the `dism` or `wmic` commands. The `systeminfo` command too can be used, but will only list KB numbers.
+
+The `wmic` command:
+
+- The output of the command can be formatted as CSV, table, or list. See [examples here](https://www.pearsonitcertification.com/articles/article.aspx?p=1700427&seqNum=4).
+- To see the list of all available options, type `wmic /?`
+
+The `dism` command:
+
+- Running `dism /online /get-packages` command will list all packages installed on the system.
+- Additional features of a package (if available) can be extracted by running `dism /online /get-features /packagename:<packagename>`
+- By default, the output of the command is in list format ([see example](./command-outputs/dism-output-list.txt)). You can also dump the output in table format ([see example](./command-outputs/dism-output-table.txt)).
+- To see the list of all available options, type `dism /?`
+
+> Note: Running the `dism` command requires the admin to be running elevated.
 
 ## Services
 
