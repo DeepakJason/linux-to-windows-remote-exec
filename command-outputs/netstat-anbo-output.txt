@@ -1,0 +1,324 @@
+
+Active Connections
+
+  Proto  Local Address          Foreign Address        State           PID
+  TCP    0.0.0.0:135            0.0.0.0:0              LISTENING       568
+  RpcSs
+ [svchost.exe]
+  TCP    0.0.0.0:445            0.0.0.0:0              LISTENING       4
+ Can not obtain ownership information
+  TCP    0.0.0.0:5040           0.0.0.0:0              LISTENING       7756
+  CDPSvc
+ [svchost.exe]
+  TCP    0.0.0.0:5357           0.0.0.0:0              LISTENING       4
+ Can not obtain ownership information
+  TCP    0.0.0.0:40007          0.0.0.0:0              LISTENING       4
+ Can not obtain ownership information
+  TCP    0.0.0.0:49664          0.0.0.0:0              LISTENING       820
+ [lsass.exe]
+  TCP    0.0.0.0:49665          0.0.0.0:0              LISTENING       616
+ Can not obtain ownership information
+  TCP    0.0.0.0:49666          0.0.0.0:0              LISTENING       1744
+  EventLog
+ [svchost.exe]
+  TCP    0.0.0.0:49667          0.0.0.0:0              LISTENING       1464
+  Schedule
+ [svchost.exe]
+  TCP    0.0.0.0:49668          0.0.0.0:0              LISTENING       3472
+ [spoolsv.exe]
+  TCP    0.0.0.0:49679          0.0.0.0:0              LISTENING       724
+ Can not obtain ownership information
+  TCP    10.10.2.139:139        0.0.0.0:0              LISTENING       4
+ Can not obtain ownership information
+  TCP    10.10.2.139:53174      35.168.242.147:443     CLOSE_WAIT      10532
+ [System]
+  TCP    10.10.2.139:54862      13.249.208.122:443     ESTABLISHED     11364
+ [firefox.exe]
+  TCP    10.10.2.139:56541      20.198.162.76:443      ESTABLISHED     4188
+  WpnService
+ [svchost.exe]
+  TCP    10.10.2.139:56552      54.149.34.182:443      ESTABLISHED     11364
+ [firefox.exe]
+  TCP    10.10.2.139:59734      20.81.50.155:443       CLOSE_WAIT      2560
+ [Code.exe]
+  TCP    10.10.2.139:60845      104.192.137.9:443      ESTABLISHED     11364
+ [firefox.exe]
+  TCP    10.10.2.139:61030      20.109.240.231:443     ESTABLISHED     2560
+ [Code.exe]
+  TCP    10.10.2.139:61474      13.67.9.5:443          ESTABLISHED     11768
+ [Code.exe]
+  TCP    10.10.2.139:61727      35.186.227.140:443     TIME_WAIT       0
+  TCP    10.10.2.139:61751      20.41.193.228:443      TIME_WAIT       0
+  TCP    10.10.2.139:61762      104.46.162.226:443     TIME_WAIT       0
+  TCP    10.10.2.139:61975      34.253.111.215:443     ESTABLISHED     11364
+ [firefox.exe]
+  TCP    10.10.2.139:61976      108.159.15.51:443      ESTABLISHED     11364
+ [firefox.exe]
+  TCP    10.10.2.139:61977      108.159.15.81:443      ESTABLISHED     11364
+ [firefox.exe]
+  TCP    10.10.2.139:61978      34.253.111.215:443     ESTABLISHED     11364
+ [firefox.exe]
+  TCP    10.10.2.139:61979      34.255.40.176:443      ESTABLISHED     11364
+ [firefox.exe]
+  TCP    10.10.2.139:62001      34.117.237.239:443     ESTABLISHED     11364
+ [firefox.exe]
+  TCP    10.10.2.139:62006      20.41.193.228:443      ESTABLISHED     11364
+ [firefox.exe]
+  TCP    10.10.2.139:62007      40.78.198.158:443      ESTABLISHED     11364
+ [firefox.exe]
+  TCP    10.10.2.139:62008      20.192.98.153:443      ESTABLISHED     11364
+ [firefox.exe]
+  TCP    10.10.2.139:62009      99.86.17.102:443       ESTABLISHED     11364
+ [firefox.exe]
+  TCP    10.10.2.139:62010      20.41.193.228:443      ESTABLISHED     11364
+ [firefox.exe]
+  TCP    10.10.2.139:62011      13.71.195.197:443      ESTABLISHED     11364
+ [firefox.exe]
+  TCP    10.10.2.139:62013      13.107.42.20:443       ESTABLISHED     3952
+ [Agent.Listener.exe]
+  TCP    10.10.2.139:62016      13.107.42.20:443       ESTABLISHED     3952
+ [Agent.Listener.exe]
+  TCP    10.10.2.139:62060      52.54.61.62:443        CLOSE_WAIT      15528
+ [System]
+  TCP    127.0.0.1:7335         0.0.0.0:0              LISTENING       11620
+ [figma_agent.exe]
+  TCP    127.0.0.1:18412        0.0.0.0:0              LISTENING       11620
+ [figma_agent.exe]
+  TCP    127.0.0.1:28385        0.0.0.0:0              LISTENING       4
+ Can not obtain ownership information
+  TCP    127.0.0.1:28390        0.0.0.0:0              LISTENING       4
+ Can not obtain ownership information
+  TCP    127.0.0.1:44950        0.0.0.0:0              LISTENING       11620
+ [figma_agent.exe]
+  TCP    127.0.0.1:44960        0.0.0.0:0              LISTENING       11620
+ [figma_agent.exe]
+  TCP    127.0.0.1:49350        0.0.0.0:0              LISTENING       10804
+ [esrv_svc.exe]
+  TCP    127.0.0.1:49350        127.0.0.1:62027        CLOSE_WAIT      10804
+ [esrv_svc.exe]
+  TCP    127.0.0.1:49351        0.0.0.0:0              LISTENING       6464
+ [esrv.exe]
+  TCP    127.0.0.1:52980        127.0.0.1:52981        ESTABLISHED     11364
+ [firefox.exe]
+  TCP    127.0.0.1:52981        127.0.0.1:52980        ESTABLISHED     11364
+ [firefox.exe]
+  TCP    127.0.0.1:52985        127.0.0.1:52986        ESTABLISHED     3680
+ [firefox.exe]
+  TCP    127.0.0.1:52986        127.0.0.1:52985        ESTABLISHED     3680
+ [firefox.exe]
+  TCP    127.0.0.1:52988        127.0.0.1:52989        ESTABLISHED     18144
+ [firefox.exe]
+  TCP    127.0.0.1:52989        127.0.0.1:52988        ESTABLISHED     18144
+ [firefox.exe]
+  TCP    127.0.0.1:52991        127.0.0.1:52992        ESTABLISHED     10612
+ [firefox.exe]
+  TCP    127.0.0.1:52992        127.0.0.1:52991        ESTABLISHED     10612
+ [firefox.exe]
+  TCP    127.0.0.1:53897        127.0.0.1:53898        ESTABLISHED     7144
+ [firefox.exe]
+  TCP    127.0.0.1:53898        127.0.0.1:53897        ESTABLISHED     7144
+ [firefox.exe]
+  TCP    127.0.0.1:53909        127.0.0.1:53910        ESTABLISHED     18560
+ [firefox.exe]
+  TCP    127.0.0.1:53910        127.0.0.1:53909        ESTABLISHED     18560
+ [firefox.exe]
+  TCP    127.0.0.1:54532        127.0.0.1:54533        ESTABLISHED     11388
+ [firefox.exe]
+  TCP    127.0.0.1:54533        127.0.0.1:54532        ESTABLISHED     11388
+ [firefox.exe]
+  TCP    127.0.0.1:54539        127.0.0.1:54540        ESTABLISHED     6784
+ [firefox.exe]
+  TCP    127.0.0.1:54540        127.0.0.1:54539        ESTABLISHED     6784
+ [firefox.exe]
+  TCP    127.0.0.1:55831        127.0.0.1:55832        ESTABLISHED     3676
+ [firefox.exe]
+  TCP    127.0.0.1:55832        127.0.0.1:55831        ESTABLISHED     3676
+ [firefox.exe]
+  TCP    127.0.0.1:58007        127.0.0.1:58008        ESTABLISHED     6500
+ [firefox.exe]
+  TCP    127.0.0.1:58008        127.0.0.1:58007        ESTABLISHED     6500
+ [firefox.exe]
+  TCP    127.0.0.1:60179        127.0.0.1:60180        ESTABLISHED     8820
+ [firefox.exe]
+  TCP    127.0.0.1:60180        127.0.0.1:60179        ESTABLISHED     8820
+ [firefox.exe]
+  TCP    127.0.0.1:60199        127.0.0.1:60200        ESTABLISHED     15880
+ [firefox.exe]
+  TCP    127.0.0.1:60200        127.0.0.1:60199        ESTABLISHED     15880
+ [firefox.exe]
+  TCP    127.0.0.1:60770        127.0.0.1:60771        ESTABLISHED     13360
+ [firefox.exe]
+  TCP    127.0.0.1:60771        127.0.0.1:60770        ESTABLISHED     13360
+ [firefox.exe]
+  TCP    127.0.0.1:60841        127.0.0.1:60842        ESTABLISHED     13532
+ [firefox.exe]
+  TCP    127.0.0.1:60842        127.0.0.1:60841        ESTABLISHED     13532
+ [firefox.exe]
+  TCP    127.0.0.1:60851        127.0.0.1:60852        ESTABLISHED     15024
+ [firefox.exe]
+  TCP    127.0.0.1:60852        127.0.0.1:60851        ESTABLISHED     15024
+ [firefox.exe]
+  TCP    127.0.0.1:61577        127.0.0.1:61578        ESTABLISHED     6928
+ [firefox.exe]
+  TCP    127.0.0.1:61578        127.0.0.1:61577        ESTABLISHED     6928
+ [firefox.exe]
+  TCP    127.0.0.1:61992        127.0.0.1:49350        TIME_WAIT       0
+  TCP    127.0.0.1:61993        127.0.0.1:49350        TIME_WAIT       0
+  TCP    127.0.0.1:61994        127.0.0.1:49350        TIME_WAIT       0
+  TCP    127.0.0.1:61998        127.0.0.1:49350        TIME_WAIT       0
+  TCP    127.0.0.1:62003        127.0.0.1:49350        TIME_WAIT       0
+  TCP    127.0.0.1:62004        127.0.0.1:49350        TIME_WAIT       0
+  TCP    127.0.0.1:62005        127.0.0.1:49350        TIME_WAIT       0
+  TCP    127.0.0.1:62017        127.0.0.1:49350        TIME_WAIT       0
+  TCP    127.0.0.1:62018        127.0.0.1:49350        TIME_WAIT       0
+  TCP    127.0.0.1:62019        127.0.0.1:49350        TIME_WAIT       0
+  TCP    127.0.0.1:62020        127.0.0.1:49350        TIME_WAIT       0
+  TCP    127.0.0.1:62021        127.0.0.1:49350        TIME_WAIT       0
+  TCP    127.0.0.1:62022        127.0.0.1:49350        TIME_WAIT       0
+  TCP    127.0.0.1:62023        127.0.0.1:49350        TIME_WAIT       0
+  TCP    127.0.0.1:62024        127.0.0.1:49350        TIME_WAIT       0
+  TCP    127.0.0.1:62025        127.0.0.1:49350        TIME_WAIT       0
+  TCP    127.0.0.1:62026        127.0.0.1:49350        TIME_WAIT       0
+  TCP    127.0.0.1:62027        127.0.0.1:49350        FIN_WAIT_2      10804
+ [esrv_svc.exe]
+  TCP    172.26.128.1:139       0.0.0.0:0              LISTENING       4
+ Can not obtain ownership information
+  TCP    [::]:135               [::]:0                 LISTENING       568
+  RpcSs
+ [svchost.exe]
+  TCP    [::]:445               [::]:0                 LISTENING       4
+ Can not obtain ownership information
+  TCP    [::]:5357              [::]:0                 LISTENING       4
+ Can not obtain ownership information
+  TCP    [::]:40007             [::]:0                 LISTENING       4
+ Can not obtain ownership information
+  TCP    [::]:49664             [::]:0                 LISTENING       820
+ [lsass.exe]
+  TCP    [::]:49665             [::]:0                 LISTENING       616
+ Can not obtain ownership information
+  TCP    [::]:49666             [::]:0                 LISTENING       1744
+  EventLog
+ [svchost.exe]
+  TCP    [::]:49667             [::]:0                 LISTENING       1464
+  Schedule
+ [svchost.exe]
+  TCP    [::]:49668             [::]:0                 LISTENING       3472
+ [spoolsv.exe]
+  TCP    [::]:49679             [::]:0                 LISTENING       724
+ Can not obtain ownership information
+  TCP    [::1]:49670            [::]:0                 LISTENING       4908
+ [jhi_service.exe]
+  UDP    0.0.0.0:53             *:*                                    3420
+  SharedAccess
+ [svchost.exe]
+  UDP    0.0.0.0:1900           *:*                                    10804
+ [esrv_svc.exe]
+  UDP    0.0.0.0:3702           *:*                                    2408
+ [dashost.exe]
+  UDP    0.0.0.0:3702           *:*                                    7060
+  FDResPub
+ [svchost.exe]
+  UDP    0.0.0.0:3702           *:*                                    2408
+ [dashost.exe]
+  UDP    0.0.0.0:3702           *:*                                    7060
+  FDResPub
+ [svchost.exe]
+  UDP    0.0.0.0:5050           *:*                                    7756
+  CDPSvc
+ [svchost.exe]
+  UDP    0.0.0.0:5353           *:*                                    2972
+  Dnscache
+ [svchost.exe]
+  UDP    0.0.0.0:5355           *:*                                    2972
+  Dnscache
+ [svchost.exe]
+  UDP    0.0.0.0:51418          *:*                                    2408
+ [dashost.exe]
+  UDP    0.0.0.0:54792          *:*                                    3420
+  SharedAccess
+ [svchost.exe]
+  UDP    0.0.0.0:54793          *:*                                    3420
+  SharedAccess
+ [svchost.exe]
+  UDP    0.0.0.0:60844          *:*                                    2408
+ [dashost.exe]
+  UDP    0.0.0.0:62449          *:*                                    7060
+  FDResPub
+ [svchost.exe]
+  UDP    10.10.2.139:137        *:*                                    4
+ Can not obtain ownership information
+  UDP    10.10.2.139:138        *:*                                    4
+ Can not obtain ownership information
+  UDP    10.10.2.139:1900       *:*                                    3052
+  SSDPSRV
+ [svchost.exe]
+  UDP    10.10.2.139:58553      *:*                                    4
+ Can not obtain ownership information
+  UDP    10.10.2.139:59286      *:*                                    3052
+  SSDPSRV
+ [svchost.exe]
+  UDP    127.0.0.1:1900         *:*                                    3052
+  SSDPSRV
+ [svchost.exe]
+  UDP    127.0.0.1:49671        *:*                                    4444
+  iphlpsvc
+ [svchost.exe]
+  UDP    127.0.0.1:59287        *:*                                    3052
+  SSDPSRV
+ [svchost.exe]
+  UDP    172.26.128.1:137       *:*                                    4
+ Can not obtain ownership information
+  UDP    172.26.128.1:138       *:*                                    4
+ Can not obtain ownership information
+  UDP    172.26.128.1:1900      *:*                                    3052
+  SSDPSRV
+ [svchost.exe]
+  UDP    172.26.128.1:58554     *:*                                    4
+ Can not obtain ownership information
+  UDP    172.26.128.1:59288     *:*                                    3052
+  SSDPSRV
+ [svchost.exe]
+  UDP    [::]:3702              *:*                                    2408
+ [dashost.exe]
+  UDP    [::]:3702              *:*                                    7060
+  FDResPub
+ [svchost.exe]
+  UDP    [::]:3702              *:*                                    2408
+ [dashost.exe]
+  UDP    [::]:3702              *:*                                    7060
+  FDResPub
+ [svchost.exe]
+  UDP    [::]:5353              *:*                                    2972
+  Dnscache
+ [svchost.exe]
+  UDP    [::]:5355              *:*                                    2972
+  Dnscache
+ [svchost.exe]
+  UDP    [::]:51419             *:*                                    2408
+ [dashost.exe]
+  UDP    [::]:54794             *:*                                    3420
+  SharedAccess
+ [svchost.exe]
+  UDP    [::]:60845             *:*                                    2408
+ [dashost.exe]
+  UDP    [::]:62450             *:*                                    7060
+  FDResPub
+ [svchost.exe]
+  UDP    [::1]:1900             *:*                                    3052
+  SSDPSRV
+ [svchost.exe]
+  UDP    [::1]:59284            *:*                                    3052
+  SSDPSRV
+ [svchost.exe]
+  UDP    [fe80::309b:198b:ecc6:fd77%8]:1900  *:*                                    3052
+  SSDPSRV
+ [svchost.exe]
+  UDP    [fe80::309b:198b:ecc6:fd77%8]:59283  *:*                                    3052
+  SSDPSRV
+ [svchost.exe]
+  UDP    [fe80::9963:6e91:c4e6:200e%43]:1900  *:*                                    3052
+  SSDPSRV
+ [svchost.exe]
+  UDP    [fe80::9963:6e91:c4e6:200e%43]:59285  *:*                                    3052
+  SSDPSRV
+ [svchost.exe]

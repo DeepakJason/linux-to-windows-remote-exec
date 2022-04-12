@@ -18,8 +18,9 @@ Notes:
 
 A list of installed programs and OS patches can be extracted with either the `dism` or `wmic` commands. The `systeminfo` command too can be used, but will only list KB numbers.
 
-The `wmic` command:
+The `wmic` command: This is the swiss-army knife of Windows management commands. It can be used to pretty much do anything you want.
 
+- @TODO
 - The output of the command can be formatted as CSV, table, or list. See [examples here](https://www.pearsonitcertification.com/articles/article.aspx?p=1700427&seqNum=4).
 - To see the list of all available options, type `wmic /?`
 
@@ -48,6 +49,10 @@ Notes:
 
 ## Ports
 
+Running `netstat /a` or `netstat /an` will list all the ports that are open on the system ([see example](./command-outputs/netstat-an-output.txt)).
+
+> Note: You can also run `netstat /anbo` to get the name, id of the processes that are using the ports ([see example](./command-outputs/netstat-anbo-output.txt)). However this variant requires the admin to be running elevated.
+
 ## Storage
 
 ## Detailed List of Commands
@@ -75,6 +80,12 @@ Notes:
   - Path: Run `sc qc <servicename> | findstr /i /c:"binary_path_name"`. Unfortunately, this has to be done on a per-service basis.
   - Description: Run `sc qdescription <servicename>`. Unfortunately, this has to be done on a per-service basis.
 
-- Ports (Port, Services, Name, Path, Compliant, Version, Vulnerability Count)
+- Ports
+  - Port, Services, Name: Run `netstat /an`. You can also run `netstat /anbo`, but this requires admin to be elevated.
+  - Path, Compliant, Version, Vulnerability Count: @TODO
 
 - Storage Volumes
+
+## A quick note on PowerShell commands
+
+Much of these information can also be extracted via PowerShell scripts/cmdlets. However, I'm excluding them for now, given the short delivery deadline and audience's lack of familiarity with PowerShell.
