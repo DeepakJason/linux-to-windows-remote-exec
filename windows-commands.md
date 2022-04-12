@@ -58,6 +58,8 @@ Running `netstat /a` or `netstat /an` will list all the ports that are open on t
 @TODO
 wmic logicaldisk
 wmic diskdrive list
+fsutil
+diskpart
 https://www.thewindowsclub.com/list-drives-using-command-prompt-powershell-windows
 
 ## Detailed List of Commands
