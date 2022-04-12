@@ -5,6 +5,7 @@
         "cmdlets",
         "dism",
         "findstr",
+        "fsutil",
         "mkdir",
         "packagename",
         "qdescription",

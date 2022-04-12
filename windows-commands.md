@@ -55,11 +55,18 @@ Running `netstat /a` or `netstat /an` will list all the ports that are open on t
 
 ## Storage
 
-@TODO
+The `wmic` command:
 wmic logicaldisk
 wmic diskdrive list
-fsutil
-diskpart
+wmic volume
+
+The `fsutil` command:
+
+- The `fsutil fsinfo drives` command will list all drives on the system. You can then extract extended details on a per-drive basis using the `fsutil fsinfo drive:<driveletter>` command using commands like `fsutil fsinfo volumeinfo <drive>`, `` etc.
+
+> Note: Extracting disk/storage information using the `fsutil` command requires the admin to be running elevated.
+
+@TODO
 https://www.thewindowsclub.com/list-drives-using-command-prompt-powershell-windows
 
 ## Detailed List of Commands
