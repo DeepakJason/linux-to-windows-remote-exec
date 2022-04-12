@@ -18,7 +18,7 @@ Target machine prerequisites:
 
 Source machine prerequisites:
 
-- None. Just connect to the target machine using SSH as follows: `ssh username@targetip`. You'll get prompted for password.
+- None. Just connect to the target machine using SSH as follows: `ssh username@targetIP`. You'll get prompted for password.
 
 ## ✅ Powershell remoting over WSMan/WinRM
 
@@ -30,7 +30,7 @@ Target machine prerequisites:
 Source machine prerequisites:
 
 - The remote target machine's IP/hostname must be added to the source machine's WSMan trusted hosts. Use the following cmdlet for this purpose: `Set-Item -path "WSMan:\localhost\Client\TrustedHosts" -value IP-OF-REMOTE-TARGET-MACHINE`.
-- Once PS remoting is enabled on the target macine, the source machine can use the `Enter-PSSession` or `Invoke-Command` cmdlets to execute commands on the remote target machine.
+- Once PS remoting is enabled on the target machine, the source machine can use the `Enter-PSSession` or `Invoke-Command` cmdlets to execute commands on the remote target machine.
 
 ## ✅ Powershell remoting over OpenSSH
 

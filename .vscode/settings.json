@@ -1,10 +1,15 @@
 {
     "cSpell.words": [
+        "cifs",
         "cmdlets",
         "findstr",
+        "mkdir",
         "qdescription",
+        "queryex",
+        "quickconfig",
         "Remoting",
         "servicename",
-        "systeminfo"
+        "systeminfo",
+        "trustedhosts"
     ]
 }
