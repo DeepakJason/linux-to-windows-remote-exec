@@ -94,7 +94,7 @@ The `fsutil` command:
 
 - Ports
   - Port, Services, Name: Run `netstat /an`. You can also run `netstat /anbo`, but this requires admin to be elevated.
-  - Path, Compliant, Version, Vulnerability Count: @TODO
+  - Path, Compliant, Version, Vulnerability Count: N/A. Skipped per discussion with Sambhram.
 
 - Storage Volumes
 
