@@ -18,7 +18,7 @@ Notes:
 
 A list of installed programs and OS patches can be extracted with either the `dism` or `wmic` commands. The `systeminfo` command too can be used, but will only list KB numbers.
 
-The `wmic` command: This is the swiss-army knife of Windows management commands. It can be used to pretty much do anything you want.
+The `wmic` command: This is the swiss-army knife of Windows management commands.
 
 - @TODO
 - The output of the command can be formatted as CSV, table, or list. See [examples here](https://www.pearsonitcertification.com/articles/article.aspx?p=1700427&seqNum=4).
@@ -55,11 +55,11 @@ Running `netstat /a` or `netstat /an` will list all the ports that are open on t
 
 ## Storage
 
-The `wmic` command:
-wmic logicaldisk
-wmic diskdrive list
-wmic volume
-@TODO
+The `wmic` command can extract details on drives, volumes, and logical disks etc.
+
+- Between `wmic logicaldisk list`, `wmic diskdrive list`, `wmic volume list`, we should be able to extract all the necessary details.
+- The output of the command can be formatted as CSV, table, or list. See [examples here](https://www.pearsonitcertification.com/articles/article.aspx?p=1700427&seqNum=4).
+- To see the list of all available options, type `wmic /?`
 
 The `fsutil` command:
 
@@ -98,7 +98,7 @@ The `fsutil` command:
 
 - Storage Volumes
 
-  - @TODO
+  - @TODO: There is some ambiguity in the requirements. Are we extracting drive details? Or mounted volume details?
 
 ## A quick note on PowerShell commands
 
