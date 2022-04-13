@@ -20,7 +20,7 @@ A list of installed programs and OS patches can be extracted with either the `di
 
 The `wmic` command: This is the swiss-army knife of Windows management commands.
 
-- @TODO
+- Generic information about installed products can be extracted using `wmic product get Name,Version,Vendor /format:list`.
 - The output of the command can be formatted as CSV, table, or list. See [examples here](https://www.pearsonitcertification.com/articles/article.aspx?p=1700427&seqNum=4).
 - To see the list of all available options, type `wmic /?`
 
@@ -82,10 +82,14 @@ The `fsutil` command:
   - Name, Version, Build: Run `systeminfo | findstr /ib /c:"os"`
   - OS Installation Date: Run `systeminfo | findstr /ib /c:"original install date"`
 
-- @TODO: OS Installed Patches
+- OS Installed Patches
   - Run `systeminfo`. You'll see the list of installed patches under the "Hotfix" section. Unfortunately, the output is spread out across multiple lines, so `findstr` will not be of help. Also, only the KB numbers are available.
 
-- @TODO: Installed Programs (Names, Version, Path, Architecture, Uninstall String)
+- Installed Programs (Names, Version, Path, Architecture, Uninstall String)
+  - Name, Version: Run `wmic product get Name,Version /format:list`
+  - Path, Architecture, Uninstall String: Run the following two commands:
+    - `reg query HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Uninstall /s`
+    - `reg query HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Uninstall /s` (run on 64-bit systems only)
 
 - Services
   - Name, Status: Run `sc queryex`

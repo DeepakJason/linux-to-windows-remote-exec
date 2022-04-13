@@ -9,6 +9,7 @@
         "findstr",
         "fsinfo",
         "fsutil",
+        "HKLM",
         "logicaldisk",
         "mkdir",
         "packagename",
