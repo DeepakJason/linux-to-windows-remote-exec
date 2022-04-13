@@ -1,6 +1,26 @@
 {
     "cSpell.words": [
+        "anbo",
+        "cifs",
         "cmdlets",
-        "Remoting"
+        "diskdrive",
+        "dism",
+        "driveletter",
+        "findstr",
+        "fsinfo",
+        "fsutil",
+        "HKLM",
+        "logicaldisk",
+        "mkdir",
+        "packagename",
+        "qdescription",
+        "queryex",
+        "quickconfig",
+        "Remoting",
+        "Sambhram",
+        "servicename",
+        "systeminfo",
+        "trustedhosts",
+        "volumeinfo"
     ]
 }

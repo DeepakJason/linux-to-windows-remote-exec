@@ -1,0 +1,359 @@
+
+Deployment Image Servicing and Management tool
+Version: 10.0.19041.844
+
+Image Version: 10.0.19044.1620
+
+Packages listing:
+
+Package Identity : Microsoft-OneCore-ApplicationModel-Sync-Desktop-FOD-Package~31bf3856ad364e35~amd64~~10.0.19041.1503
+State : Installed
+Release Type : OnDemand Pack
+Install Time : 2/11/2022 3:05 PM
+
+Package Identity : Microsoft-OneCore-DirectX-Database-FOD-Package~31bf3856ad364e35~amd64~~10.0.19041.1
+State : Installed
+Release Type : OnDemand Pack
+Install Time : 12/7/2019 9:52 AM
+
+Package Identity : Microsoft-OneCore-Graphics-Tools-Package~31bf3856ad364e35~amd64~~10.0.19041.1052
+State : Installed
+Release Type : OnDemand Pack
+Install Time : 6/21/2021 9:14 AM
+
+Package Identity : Microsoft-Windows-Client-LanguagePack-Package~31bf3856ad364e35~amd64~en-US~10.0.19041.1620
+State : Installed
+Release Type : Language Pack
+Install Time : 4/5/2022 4:14 PM
+
+Package Identity : Microsoft-Windows-FodMetadata-Package~31bf3856ad364e35~amd64~~10.0.19041.1
+State : Installed
+Release Type : Feature Pack
+Install Time : 12/7/2019 9:49 AM
+
+Package Identity : Microsoft-Windows-Foundation-Package~31bf3856ad364e35~amd64~~10.0.19041.1
+State : Installed
+Release Type : Foundation
+Install Time : 12/7/2019 9:18 AM
+
+Package Identity : Microsoft-Windows-Hello-Face-Package~31bf3856ad364e35~amd64~~10.0.19041.1348
+State : Installed
+Release Type : OnDemand Pack
+Install Time : 11/11/2021 4:55 AM
+
+Package Identity : Microsoft-Windows-InternetExplorer-Optional-Package~31bf3856ad364e35~amd64~~11.0.19041.1566
+State : Installed
+Release Type : OnDemand Pack
+Install Time : 2/19/2022 2:39 PM
+
+Package Identity : Microsoft-Windows-LanguageFeatures-Basic-en-us-Package~31bf3856ad364e35~amd64~~10.0.19041.1
+State : Installed
+Release Type : OnDemand Pack
+Install Time : 12/7/2019 9:51 AM
+
+Package Identity : Microsoft-Windows-LanguageFeatures-Handwriting-en-us-Package~31bf3856ad364e35~amd64~~10.0.19041.1
+State : Installed
+Release Type : OnDemand Pack
+Install Time : 12/7/2019 9:51 AM
+
+Package Identity : Microsoft-Windows-LanguageFeatures-OCR-en-us-Package~31bf3856ad364e35~amd64~~10.0.19041.1
+State : Installed
+Release Type : OnDemand Pack
+Install Time : 12/7/2019 9:51 AM
+
+Package Identity : Microsoft-Windows-LanguageFeatures-Speech-en-us-Package~31bf3856ad364e35~amd64~~10.0.19041.1
+State : Installed
+Release Type : OnDemand Pack
+Install Time : 12/7/2019 9:51 AM
+
+Package Identity : Microsoft-Windows-LanguageFeatures-TextToSpeech-en-us-Package~31bf3856ad364e35~amd64~~10.0.19041.1
+State : Installed
+Release Type : OnDemand Pack
+Install Time : 12/7/2019 9:51 AM
+
+Package Identity : Microsoft-Windows-MediaPlayer-Package~31bf3856ad364e35~amd64~~10.0.19041.1620
+State : Installed
+Release Type : OnDemand Pack
+Install Time : 4/5/2022 4:14 PM
+
+Package Identity : Microsoft-Windows-MSPaint-FoD-Package~31bf3856ad364e35~amd64~en-US~10.0.19041.1
+State : Installed
+Release Type : OnDemand Pack
+Install Time : 12/7/2019 9:51 AM
+
+Package Identity : Microsoft-Windows-MSPaint-FoD-Package~31bf3856ad364e35~amd64~~10.0.19041.746
+State : Installed
+Release Type : OnDemand Pack
+Install Time : 1/13/2021 9:56 AM
+
+Package Identity : Microsoft-Windows-MSPaint-FoD-Package~31bf3856ad364e35~wow64~en-US~10.0.19041.1
+State : Installed
+Release Type : OnDemand Pack
+Install Time : 12/7/2019 9:51 AM
+
+Package Identity : Microsoft-Windows-MSPaint-FoD-Package~31bf3856ad364e35~wow64~~10.0.19041.1
+State : Installed
+Release Type : OnDemand Pack
+Install Time : 12/7/2019 9:51 AM
+
+Package Identity : Microsoft-Windows-NetFx3-OnDemand-Package~31bf3856ad364e35~amd64~~10.0.19041.1
+State : Installed
+Release Type : OnDemand Pack
+Install Time : 6/29/2020 12:01 PM
+
+Package Identity : Microsoft-Windows-Notepad-FoD-Package~31bf3856ad364e35~amd64~en-US~10.0.19041.488
+State : Installed
+Release Type : OnDemand Pack
+Install Time : 9/11/2020 3:17 PM
+
+Package Identity : Microsoft-Windows-Notepad-FoD-Package~31bf3856ad364e35~amd64~~10.0.19041.1566
+State : Installed
+Release Type : OnDemand Pack
+Install Time : 2/19/2022 2:39 PM
+
+Package Identity : Microsoft-Windows-Notepad-FoD-Package~31bf3856ad364e35~wow64~en-US~10.0.19041.1
+State : Installed
+Release Type : OnDemand Pack
+Install Time : 12/7/2019 9:51 AM
+
+Package Identity : Microsoft-Windows-Notepad-FoD-Package~31bf3856ad364e35~wow64~~10.0.19041.1
+State : Installed
+Release Type : OnDemand Pack
+Install Time : 12/7/2019 9:51 AM
+
+Package Identity : Microsoft-Windows-PowerShell-ISE-FOD-Package~31bf3856ad364e35~amd64~en-US~10.0.19041.1
+State : Installed
+Release Type : OnDemand Pack
+Install Time : 12/7/2019 9:52 AM
+
+Package Identity : Microsoft-Windows-PowerShell-ISE-FOD-Package~31bf3856ad364e35~amd64~~10.0.19041.1
+State : Installed
+Release Type : OnDemand Pack
+Install Time : 12/7/2019 9:52 AM
+
+Package Identity : Microsoft-Windows-PowerShell-ISE-FOD-Package~31bf3856ad364e35~wow64~en-US~10.0.19041.1
+State : Installed
+Release Type : OnDemand Pack
+Install Time : 12/7/2019 9:52 AM
+
+Package Identity : Microsoft-Windows-PowerShell-ISE-FOD-Package~31bf3856ad364e35~wow64~~10.0.19041.1
+State : Installed
+Release Type : OnDemand Pack
+Install Time : 12/7/2019 9:52 AM
+
+Package Identity : Microsoft-Windows-Printing-WFS-FoD-Package~31bf3856ad364e35~amd64~en-US~10.0.19041.906
+State : Installed
+Release Type : OnDemand Pack
+Install Time : 4/16/2021 9:06 AM
+
+Package Identity : Microsoft-Windows-Printing-WFS-FoD-Package~31bf3856ad364e35~amd64~~10.0.19041.1586
+State : Installed
+Release Type : OnDemand Pack
+Install Time : 3/10/2022 2:54 PM
+
+Package Identity : Microsoft-Windows-QuickAssist-Package~31bf3856ad364e35~amd64~~10.0.19041.1566
+State : Installed
+Release Type : OnDemand Pack
+Install Time : 2/19/2022 2:39 PM
+
+Package Identity : Microsoft-Windows-StepsRecorder-Package~31bf3856ad364e35~amd64~en-US~10.0.19041.1
+State : Installed
+Release Type : OnDemand Pack
+Install Time : 12/7/2019 9:52 AM
+
+Package Identity : Microsoft-Windows-StepsRecorder-Package~31bf3856ad364e35~amd64~~10.0.19041.746
+State : Installed
+Release Type : OnDemand Pack
+Install Time : 1/13/2021 9:56 AM
+
+Package Identity : Microsoft-Windows-StepsRecorder-Package~31bf3856ad364e35~wow64~en-US~10.0.19041.1
+State : Installed
+Release Type : OnDemand Pack
+Install Time : 12/7/2019 9:52 AM
+
+Package Identity : Microsoft-Windows-StepsRecorder-Package~31bf3856ad364e35~wow64~~10.0.19041.1
+State : Installed
+Release Type : OnDemand Pack
+Install Time : 12/7/2019 9:52 AM
+
+Package Identity : Microsoft-Windows-TabletPCMath-Package~31bf3856ad364e35~amd64~~10.0.19041.746
+State : Installed
+Release Type : OnDemand Pack
+Install Time : 1/13/2021 9:56 AM
+
+Package Identity : Microsoft-Windows-UserExperience-Desktop-Package~31bf3856ad364e35~amd64~~10.0.19041.1503
+State : Installed
+Release Type : OnDemand Pack
+Install Time : 2/11/2022 3:05 PM
+
+Package Identity : Microsoft-Windows-WordPad-FoD-Package~31bf3856ad364e35~amd64~en-US~10.0.19041.1
+State : Installed
+Release Type : OnDemand Pack
+Install Time : 12/7/2019 9:52 AM
+
+Package Identity : Microsoft-Windows-WordPad-FoD-Package~31bf3856ad364e35~amd64~~10.0.19041.1566
+State : Installed
+Release Type : OnDemand Pack
+Install Time : 2/19/2022 2:39 PM
+
+Package Identity : Microsoft-Windows-WordPad-FoD-Package~31bf3856ad364e35~wow64~en-US~10.0.19041.1
+State : Installed
+Release Type : OnDemand Pack
+Install Time : 12/7/2019 9:52 AM
+
+Package Identity : Microsoft-Windows-WordPad-FoD-Package~31bf3856ad364e35~wow64~~10.0.19041.1
+State : Installed
+Release Type : OnDemand Pack
+Install Time : 12/7/2019 9:52 AM
+
+Package Identity : Microsoft-Windows-Xps-Xps-Viewer-Opt-Package~31bf3856ad364e35~amd64~~10.0.19041.1620
+State : Installed
+Release Type : OnDemand Pack
+Install Time : 4/5/2022 4:14 PM
+
+Package Identity : OpenSSH-Client-Package~31bf3856ad364e35~amd64~~10.0.19041.964
+State : Installed
+Release Type : OnDemand Pack
+Install Time : 6/21/2021 9:14 AM
+
+Package Identity : Package_for_DotNetRollup~31bf3856ad364e35~amd64~~10.0.1.3176
+State : Superseded
+Release Type : Update
+Install Time : 5/11/2020 5:37 AM
+
+Package Identity : Package_for_DotNetRollup~31bf3856ad364e35~amd64~~10.0.4488.1
+State : Installed
+Release Type : Update
+Install Time : 2/18/2022 2:39 AM
+
+Package Identity : Package_for_KB4537759~31bf3856ad364e35~amd64~~10.0.1.0
+State : Installed
+Release Type : Security Update
+Install Time : 5/11/2020 5:43 AM
+
+Package Identity : Package_for_KB4557968~31bf3856ad364e35~amd64~~19041.262.1.1
+State : Installed
+Release Type : Security Update
+Install Time : 5/11/2020 5:36 AM
+
+Package Identity : Package_for_KB4560366~31bf3856ad364e35~amd64~~19041.329.1.2
+State : Installed
+Release Type : Security Update
+Install Time : 6/29/2020 10:53 AM
+
+Package Identity : Package_for_KB4561600~31bf3856ad364e35~amd64~~10.0.1.0
+State : Installed
+Release Type : Security Update
+Install Time : 6/29/2020 12:14 PM
+
+Package Identity : Package_for_KB4566785~31bf3856ad364e35~amd64~~19041.386.1.2
+State : Installed
+Release Type : Security Update
+Install Time : 7/22/2020 8:06 AM
+
+Package Identity : Package_for_KB4570334~31bf3856ad364e35~amd64~~19041.441.1.2
+State : Installed
+Release Type : Security Update
+Install Time : 8/13/2020 1:55 PM
+
+Package Identity : Package_for_KB4577266~31bf3856ad364e35~amd64~~19041.504.1.2
+State : Installed
+Release Type : Security Update
+Install Time : 9/11/2020 2:26 PM
+
+Package Identity : Package_for_KB4577586~31bf3856ad364e35~amd64~~10.0.1.2
+State : Installed
+Release Type : Update
+Install Time : 2/19/2021 3:24 PM
+
+Package Identity : Package_for_KB4580325~31bf3856ad364e35~amd64~~10.0.1.0
+State : Installed
+Release Type : Security Update
+Install Time : 10/20/2020 3:14 PM
+
+Package Identity : Package_for_KB4586864~31bf3856ad364e35~amd64~~19041.621.1.0
+State : Installed
+Release Type : Security Update
+Install Time : 11/12/2020 3:48 PM
+
+Package Identity : Package_for_KB4589212~31bf3856ad364e35~amd64~~10.0.2.4
+State : Installed
+Release Type : Update
+Install Time : 3/12/2021 2:18 PM
+
+Package Identity : Package_for_KB4593175~31bf3856ad364e35~amd64~~19041.680.1.0
+State : Installed
+Release Type : Security Update
+Install Time : 12/9/2020 2:41 AM
+
+Package Identity : Package_for_KB4598481~31bf3856ad364e35~amd64~~19041.740.1.1
+State : Installed
+Release Type : Security Update
+Install Time : 1/13/2021 2:58 AM
+
+Package Identity : Package_for_KB5000736~31bf3856ad364e35~amd64~~10.0.1.3
+State : Installed
+Release Type : Update
+Install Time : 6/24/2021 8:56 PM
+
+Package Identity : Package_for_KB5003791~31bf3856ad364e35~amd64~~19041.1237.1.3
+State : Installed
+Release Type : Update
+Install Time : 2/2/2022 5:27 AM
+
+Package Identity : Package_for_RollupFix~31bf3856ad364e35~amd64~~19041.1620.1.10
+State : Installed
+Release Type : Update
+Install Time : 4/5/2022 4:14 PM
+
+Package Identity : Package_for_ServicingStack_1310~31bf3856ad364e35~amd64~~19041.1310.1.0
+State : Installed
+Release Type : Update
+Install Time : 10/27/2021 3:23 PM
+
+Package Identity : Package_for_ServicingStack_1371~31bf3856ad364e35~amd64~~19041.1371.1.0
+State : Installed
+Release Type : Update
+Install Time : 12/17/2021 2:03 AM
+
+Package Identity : Package_for_ServicingStack_1525~31bf3856ad364e35~amd64~~19041.1525.1.0
+State : Installed
+Release Type : Security Update
+Install Time : 2/11/2022 2:29 AM
+
+Package Identity : Package_for_ServicingStack_1613~31bf3856ad364e35~amd64~~19041.1613.1.1
+State : Installed
+Release Type : Update
+Install Time : 4/5/2022 3:21 PM
+
+Package Identity : Package_for_ServicingStack~31bf3856ad364e35~amd64~~19041.1022.1.1
+State : Superseded
+Release Type : Update
+Install Time : 6/21/2021 8:47 AM
+
+Package Identity : Package_for_ServicingStack~31bf3856ad364e35~amd64~~19041.1081.1.2
+State : Superseded
+Release Type : Security Update
+Install Time : 7/5/2021 8:00 AM
+
+Package Identity : Package_for_ServicingStack~31bf3856ad364e35~amd64~~19041.1161.1.1
+State : Superseded
+Release Type : Security Update
+Install Time : 8/12/2021 2:13 AM
+
+Package Identity : Package_for_ServicingStack~31bf3856ad364e35~amd64~~19041.1220.1.0
+State : Installed
+Release Type : Security Update
+Install Time : 9/16/2021 1:43 AM
+
+Package Identity : Package_for_ServicingStack~31bf3856ad364e35~amd64~~19041.860.1.0
+State : Superseded
+Release Type : Security Update
+Install Time : 3/11/2021 6:39 PM
+
+Package Identity : Package_for_ServicingStack~31bf3856ad364e35~amd64~~19041.925.1.1
+State : Superseded
+Release Type : Security Update
+Install Time : 4/16/2021 2:27 AM
+
+The operation completed successfully.
