@@ -74,7 +74,7 @@ The `fsutil` command:
   - IP Address, Mac Address: Run `ipconfig /all` or `systeminfo`. Unfortunately, the output is spread out across multiple lines, so `findstr` will not be of help.
 
 - Hardware specs
-  - Vendor: @TODO
+  - Vendor: Run `systeminfo | findstr /ib /c:"bios"`
   - CPU: Run `systeminfo`. Unfortunately, the output is spread out across multiple lines, so `findstr` will not be of help.
   - RAM: Run `systeminfo | findstr /ib /c:"total physical memory"`
 
