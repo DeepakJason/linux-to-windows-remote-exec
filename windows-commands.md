@@ -102,7 +102,9 @@ The `fsutil` command:
 
 - Storage Volumes
 
-  - @TODO: There is some ambiguity in the requirements. Are we extracting drive details? Or mounted volume details?
+  - Run `wmic volume list /format:list` to get a list of volumes (mounted, unmounted).
+  - Run `wmic diskdrive list /format:list` to get hardware details of physical disks.
+  - Run `wmic logicaldisk list /format:list` to get a list of local storage devices.
 
 ## A quick note on PowerShell commands
 
